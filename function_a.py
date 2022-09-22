@@ -19,7 +19,7 @@ def most_common_value(number_list):
             max_frequency = frequency_index[num]
             most_common_value = num
 
-    return most_common_value
+    #return most_common_value
 
 
 if __name__ == "__main__":
